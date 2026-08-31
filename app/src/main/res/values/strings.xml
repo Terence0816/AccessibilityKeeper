@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">輔助功能守護</string>
+    <string name="app_subtitle">Accessibility Keeper · v0.1.5</string>
+    <string name="guard_title">守護服務</string>
+    <string name="guard_on">守護中</string>
+    <string name="guard_off">已停止</string>
+    <string name="permission_title">ADB 系統權限</string>
+    <string name="permission_ok">WRITE_SECURE_SETTINGS 已授權</string>
+    <string name="permission_missing">尚未授權 WRITE_SECURE_SETTINGS</string>
+    <string name="services_title">選擇要守護的輔助功能</string>
+    <string name="services_hint">守護兩種狀況：被關閉會補回；開關仍開啟但服務失效時，會自動關閉再開啟。</string>
+    <string name="empty_services">沒有找到已安裝的輔助功能服務。</string>
+    <string name="start_guard">開始守護</string>
+    <string name="stop_guard">停止守護</string>
+    <string name="check_now">立即檢查</string>
+    <string name="refresh_list">重新掃描</string>
+    <string name="open_accessibility">開啟輔助功能設定</string>
+    <string name="open_battery">HyperOS 電池設定</string>
+    <string name="grant_command">ADB 授權指令</string>
+    <string name="copy">複製</string>
+    <string name="copied">已複製 ADB 指令</string>
+    <string name="repair_title">修復紀錄</string>
+    <string name="repair_none">尚無自動修復紀錄</string>
+    <string name="repair_count">累計自動修復：%1$d 次</string>
+    <string name="last_check">最後檢查：%1$s</string>
+    <string name="notification_title">輔助功能守護</string>
+    <string name="notification_running">正在守護 %1$d 個輔助功能</string>
+    <string name="notification_permission">需要 ADB 授權才能自動修復</string>
+    <string name="notification_repaired">已自動恢復：%1$s</string>
+    <string name="notification_restarted">偵測到失效，已自動重啟：%1$s</string>
+    <string name="status_enabled">已開啟</string>
+    <string name="status_working">運作中</string>
+    <string name="status_enabled_not_working">已開啟，但目前無法運作</string>
+    <string name="status_disabled">目前關閉</string>
+    <string name="status_guarded">已選擇守護</string>
+    <string name="status_not_guarded">未守護</string>
+
+    <string name="system_guard_title">系統守護設定</string>
+    <string name="system_guard_hint">建議把本程式本身也設為不受背景限制，避免 HyperOS 先關掉守護程式。</string>
+    <string name="sys_write_secure">系統修改權限</string>
+    <string name="sys_guard_service">守護服務</string>
+    <string name="sys_android_battery">Android 電池最佳化</string>
+    <string name="sys_hyperos_battery">HyperOS 電池策略</string>
+    <string name="sys_autostart">自動啟動</string>
+    <string name="sys_notifications">通知權限</string>
+    <string name="sys_recent_lock_hint">最近工作鎖定：建議手動鎖定本程式，降低被一鍵清理掉的機率。</string>
+    <string name="set_now">設定</string>
+    <string name="open_settings_short">開啟</string>
+
+    <string name="about_title">關於</string>
+    <string name="about_app_name">輔助功能守護（Accessibility Keeper）</string>
+    <string name="about_version">版本：v0.1.5</string>
+    <string name="about_developer">開發者：Terence0816</string>
+    <string name="about_description">用來守護使用者指定的 Android 輔助功能服務，並在服務被系統關閉或失效時協助自動恢復。</string>
+    <string name="about_github">GitHub：Terence0816/AccessibilityKeeper</string>
+    <string name="open_github">開啟 GitHub</string>
+    <string name="github_open_failed">無法開啟 GitHub 連結</string>
+</resources>
