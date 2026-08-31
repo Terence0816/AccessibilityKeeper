@@ -1,10 +1,8 @@
-# Accessibility Keeper（輔助功能守護）
 
 [![Latest Release](https://img.shields.io/github/v/release/Terence0816/AccessibilityKeeper?style=for-the-badge&label=Latest)](https://github.com/Terence0816/AccessibilityKeeper/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Terence0816/AccessibilityKeeper/total?style=for-the-badge&label=Downloads)](https://github.com/Terence0816/AccessibilityKeeper/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/Terence0816/AccessibilityKeeper?style=for-the-badge&label=Stars)](https://github.com/Terence0816/AccessibilityKeeper/stargazers)
 
-Android / HyperOS 輔助功能服務守護工具。
 
 # Accessibility Keeper（輔助功能守護）
 
